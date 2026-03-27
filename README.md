@@ -9,10 +9,11 @@
 ```bash
 
 $ whoami
-Rishiraj Singh
+Rishiraj Singh | 25MEI10079
 
 $ role
-First Year Cyber Security Student
+1st year, M. Tech Cyber Security
+VIT Bhopal University
 
 $ learning
 Programming & Creative Skills
